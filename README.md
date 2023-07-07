@@ -1,4 +1,8 @@
 # SwiftUI-AVPlayer
+
+## WWDC 2023 Status
+**NOTE** AVPlayer still needs to be wrapped in a UIViewControllerRepresentable to use it in Swift UI 😥
+
 Gathering resources for using AVPlayer in Swift UI
 
 https://developer.apple.com/forums/thread/708692
