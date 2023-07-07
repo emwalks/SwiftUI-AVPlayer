@@ -3,6 +3,8 @@ Gathering resources for using AVPlayer in Swift UI
 
 https://developer.apple.com/forums/thread/708692
 
+https://www.createwithswift.com/custom-video-player-with-avkit-and-swiftui-supporting-picture-in-picture/
+
 https://designcode.io/swiftui-handbook-play-video-with-avplayer
 
 https://www.swiftlyrush.com/implementing-a-swiftui-video/
