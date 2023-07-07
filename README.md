@@ -1,6 +1,8 @@
 # SwiftUI-AVPlayer
 Gathering resources for using AVPlayer in Swift UI
 
+https://developer.apple.com/forums/thread/708692
+
 https://designcode.io/swiftui-handbook-play-video-with-avplayer
 
 https://www.swiftlyrush.com/implementing-a-swiftui-video/
