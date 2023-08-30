@@ -11,6 +11,8 @@ https://www.createwithswift.com/custom-video-player-with-avkit-and-swiftui-suppo
 
 https://designcode.io/swiftui-handbook-play-video-with-avplayer
 
+- https://www.polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui
+
 https://www.swiftlyrush.com/implementing-a-swiftui-video/
 - wraps the AVKit AVPlayer
 
